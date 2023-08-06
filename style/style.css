@@ -1,0 +1,45 @@
+#titulo {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+}
+
+.parrafo {
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    border: 2px solid #ccc;
+}
+.foto {
+    text-align: center;
+}
+
+body { width: 80%; margin: auto; background-color: black;}
+
+*{color: white;}
+
+h2{ text-align: center; color: rgb(224, 224, 224);}
+
+table {margin: auto;}
+
+.tabla-experiencia { background-color: rgb(74, 180, 83); 
+    border-collapse: collapse; 
+    width: auto; 
+    border: 2px; 
+    border-color: white;
+}
+
+th{color: black; border: 1px solid #000; }
+td{color:black; border: 1px solid #000}
+
+.educacion{background-color: rgb(74, 180, 83); 
+    border-collapse: collapse; 
+    width: auto; 
+    border: 2px; 
+    border-color: white; }
+
